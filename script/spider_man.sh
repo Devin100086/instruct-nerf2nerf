@@ -1,0 +1,1 @@
+ns-train in2n --data "/home/wucunqi/Desktop/datasets/face" --load-dir "train/face/nerfacto/2025-04-08_224817/nerfstudio_models" --pipeline.prompt "Turn him into a spider man with mask" --pipeline.guidance-scale 7.5 --pipeline.image-guidance-scale 1.5

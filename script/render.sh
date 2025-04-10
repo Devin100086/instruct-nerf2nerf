@@ -1,0 +1,1 @@
+ns-render camera-path --load-config train/face/nerfacto/2025-04-08_224817/config.yml --output-path rgbanddepth/ --rendered-output-names rgb --depth-near-plane 0.5 --depth-far-plane 5.0 --output-format images --colormap-options.colormap gray --camera-path-filename exports/camjson/cameras.json

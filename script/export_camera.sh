@@ -1,0 +1,1 @@
+ns-export cameras --load-config train/face/nerfacto/2025-04-08_224817/config.yml  --output-dir exports/camjson
